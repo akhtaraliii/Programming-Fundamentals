@@ -1,0 +1,11 @@
+F:\university\web engineering\Linkedlist\Linkedlist\bin\Debug\netcoreapp3.0\Linkedlist.exe
+F:\university\web engineering\Linkedlist\Linkedlist\bin\Debug\netcoreapp3.0\Linkedlist.deps.json
+F:\university\web engineering\Linkedlist\Linkedlist\bin\Debug\netcoreapp3.0\Linkedlist.runtimeconfig.json
+F:\university\web engineering\Linkedlist\Linkedlist\bin\Debug\netcoreapp3.0\Linkedlist.runtimeconfig.dev.json
+F:\university\web engineering\Linkedlist\Linkedlist\bin\Debug\netcoreapp3.0\Linkedlist.dll
+F:\university\web engineering\Linkedlist\Linkedlist\bin\Debug\netcoreapp3.0\Linkedlist.pdb
+F:\university\web engineering\Linkedlist\Linkedlist\obj\Debug\netcoreapp3.0\Linkedlist.csprojAssemblyReference.cache
+F:\university\web engineering\Linkedlist\Linkedlist\obj\Debug\netcoreapp3.0\Linkedlist.AssemblyInfoInputs.cache
+F:\university\web engineering\Linkedlist\Linkedlist\obj\Debug\netcoreapp3.0\Linkedlist.AssemblyInfo.cs
+F:\university\web engineering\Linkedlist\Linkedlist\obj\Debug\netcoreapp3.0\Linkedlist.dll
+F:\university\web engineering\Linkedlist\Linkedlist\obj\Debug\netcoreapp3.0\Linkedlist.pdb
